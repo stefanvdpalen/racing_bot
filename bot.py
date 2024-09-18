@@ -6,10 +6,10 @@ from ...bot import Bot
 from ...linear_math import Transform
 
 
-class SimpleBot(Bot):
+class Bottas(Bot):
     @property
     def name(self):
-        return "SimpleBot"
+        return "Bottas"
 
     @property
     def contributor(self):
